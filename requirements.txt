@@ -1,0 +1,5 @@
+facebook-scraper==0.2.2a2
+python-slugify==4.0.0
+python-dotenv==0.13.0
+flake8
+autopep8
